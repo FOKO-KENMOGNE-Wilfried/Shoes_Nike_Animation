@@ -22,7 +22,7 @@ const StyledSubDiv = styled.div`
   font-size: 30em;
   font-weight: 700;
   position: relative;
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.4);
   z-index: 1;
 `
 
